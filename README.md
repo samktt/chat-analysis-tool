@@ -24,5 +24,14 @@ To use these scripts, follow these steps:
 
 6. **View Results**: The scripts will generate visualizations and analysis results as specified in the code.
 
+## Screenshots
+
+Explore my analysis results from a real text message conversations:
+
+![Screenshot 1](screenshots/sc1.png)
+![Screenshot 2](screenshots/sc2.png)
+![Screenshot 3](screenshots/sc3.png)
+![Screenshot 4](screenshots/sc4.png)
+
 Feel free to explore and modify the scripts according to your needs!
 
